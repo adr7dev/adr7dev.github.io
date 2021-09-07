@@ -1,0 +1,3 @@
+# NextJS configuration
+
+Test
